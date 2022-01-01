@@ -14,3 +14,7 @@ Study Pytorch and Implement Research Algorithm
 - Data load and Batch
 
 ## 3장 : Logistic Regression
+- Model Implementation
+- Class Implementation
+
+## 4장 : SoftMax Regression
