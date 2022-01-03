@@ -18,3 +18,9 @@ Study Pytorch and Implement Research Algorithm
 - Class Implementation
 
 ## 4장 : SoftMax Regression
+- SoftMax의 개념
+- Model Implementation
+- Class Implementation
+
+## 5장 : Artificial Neural Network
+- 
