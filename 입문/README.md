@@ -20,4 +20,13 @@ jhbale11의 pytorch 입문하기!
 - Class Implementation
 
 ## 5장 : Artificial Neural Networks(NN)
-- 
+- train, test, validation set
+- Supervised vs Unsupervised
+- Overfitting vs Underfitting
+- Back Propagation
+- Activation Function
+- Gradeint Vanishing and Exploding
+- How to protect Overfitting
+
+## 6장 : CNN(Convolutional Neural Network)
+-
