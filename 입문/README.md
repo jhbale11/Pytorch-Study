@@ -41,4 +41,11 @@ jhbale11의 pytorch 입문하기!
 - IMD8 movie review exercise
 
 ## 8장 : Embedding
+- One-hot Encoding
+- Word Embedding
+- Word2Vec
+- GloVe
+- Pytorch nn.Embedding()
 
+## 9장 : RNN(Recurrent Neural Network)
+- 
