@@ -29,4 +29,10 @@ jhbale11의 pytorch 입문하기!
 - How to protect Overfitting
 
 ## 6장 : CNN(Convolutional Neural Network)
--
+- Convolution Operation
+- Padding
+- Weight & Bias
+- Pooling
+- CNN Implementation
+
+## 7장 : NLP(Neuro-Linguistic Programming)
