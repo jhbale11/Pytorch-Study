@@ -36,3 +36,9 @@ jhbale11의 pytorch 입문하기!
 - CNN Implementation
 
 ## 7장 : NLP(Neuro-Linguistic Programming)
+- torchtext
+- vocabulary
+- IMD8 movie review exercise
+
+## 8장 : Embedding
+
