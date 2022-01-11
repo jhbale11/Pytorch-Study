@@ -1,5 +1,7 @@
 # Pytorch Basic
 jhbale11의 pytorch 입문하기!
+<PyTorch로 시작하는 딥 러닝 입문>, 유원준(2022)를 바탕으로 정리한 Repo입니다.
+: https://wikidocs.net/book/2788
 
 ## 1장 : Pytorch Basic
 - tensor의 개념
