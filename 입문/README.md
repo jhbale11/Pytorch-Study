@@ -48,4 +48,9 @@ jhbale11의 pytorch 입문하기!
 - Pytorch nn.Embedding()
 
 ## 9장 : RNN(Recurrent Neural Network)
-- 
+- RNN
+- LSTM
+
+## 10장 : TextRNN Tutorial 1
+- Char RNN
+- Vocabulary RNN
